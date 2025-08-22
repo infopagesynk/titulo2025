@@ -1,1 +1,47 @@
-<h1>test</h1>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Título</title>
+	<style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .pequeno {
+            font-size: 12px;
+        }
+        .mediano {
+            font-size: 18px;
+        }
+        .grande {
+            font-size: 24px;
+        }
+        .muy-grande {
+            font-size: 32px;
+        }
+    </style>
+</head>
+<body>
+  <p class="muy-grande">Perfil Académico</p>
+  <p class="grande">SPAINI CORONEL<br>NORMA ELIZABETH</p>
+  <p><b>Título obtenido</b></p>
+	<p>Licenciada en Trabajo Social</p>  
+	<p><b>Denominación de la carrera:</b></p>
+	<p>Licenciatura en Trabajo Social</p>
+	<p><b>Institución:</b></p>
+	<p>Universidad Politécnica y Artística</p>  
+	<p><b>Departamento:</b></p>
+	<p>Central</p>
+	<p><b>Ciudad:</b></p>
+	<p>Asunción</p>
+    <p><b>Acto administrativo de Registro de Título</b></p>
+	<p><b>Fecha:</b></p>
+	<p>2024-12-27</p>
+	<p><b>Tipo:</b></p>
+	<p>Resolución</p>  
+	<p><b>Responsable:</b></p>
+	<p>Dirección de Registro de Título</p>
+		
+</body>
+</html>
